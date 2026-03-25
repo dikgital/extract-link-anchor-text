@@ -80,7 +80,3 @@ The generated CSV will contain the following columns:
 ## ⚖️ License
 
 This project is open-source and free to use for your SEO projects.
-
------
-
-Would you like me to add a section on how to filter specifically for **internal links only** (excluding external domains) in this README?
